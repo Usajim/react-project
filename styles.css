@@ -1,0 +1,25 @@
+html, body {
+    margin: 10;
+    padding: 10;
+}
+
+.nav-items {
+    list-style: none;
+    display: flex;
+
+}
+.nav-items > li {
+    padding: 10px;
+}
+
+.img {
+    height: 300px;
+    width: 300px;
+}
+
+#root {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+  }
